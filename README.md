@@ -14,7 +14,22 @@
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
 
-**Run on Termux**
+**Run on Pannel** (Recomended)
+
+<p align="left">° Buy Pannel from 
+<a href="https://wa.me/94704638406"> me</a>
+
+
+<p align="left">° Upload zip and unzip And change startup command to bash and start pannel and run npm install and change startup cmd to 'npm start' </p>
+<p align="left">° Add victims creds.js file to session folder</a>
+<p align="left">° Start the pannel and see the Hacked folder for saved chats</a>
+<p align="left">° Use following to extract creds.js from session id</a>
+
+```
+https://mega.nz/file/
+```
+
+**Run on Termux** (Not Recomended)
 
 _Installation/Update_
 
@@ -61,12 +76,7 @@ _Start_
       $ npm start
 ```
 
-<p align="left">° it will ask for your number.enter your number with international form like 94704638406</p>
-<p align="left">° After that it will give you a Eight digit code.go to whatsapp->three dots-> linked devices->link a new device->link with phone number insted . now type the eight digit code and wait till linking finishes.
-<p align="left">° You did it 😇 type .menu to get menu</p>
-<p align="left">° if you want help contact 
-<a href="https://wa.me/94704638406"> me</a>
-<p align="left"><a href="https://github.com/UDMODZ/wajacker/edit/main/README.md#support-udmodz-">° Stay updated with us</a></p>
+
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
 
