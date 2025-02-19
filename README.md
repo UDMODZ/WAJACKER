@@ -111,6 +111,6 @@ _Start_
 <h2 align="center">Depelopers</h2>
 
 <p align="left">Udhanika Dissanayaka(Main dev)</p>
-<p align="left">Dinisuru(Coding Support)</p>
+<p align="left">Chanodaya Dinisuru(Coding Support)</p>
 <p align="left">Supun Fernando(Pair Site)</p>
 
