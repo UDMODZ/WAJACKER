@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/ZX737kS/UD-BOT.png" width="300" height="300"/>
+<img src="https://i.ibb.co/0yTySzjZ/20250219-091554.png" width="300" height="300"/>
 </p>
 
 <p align="center">
