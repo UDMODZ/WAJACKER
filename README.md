@@ -90,8 +90,10 @@ _Start_
 
    comming soon
 
-  
+   
 <h2 align="center">SUPPORT UDMODZ 😘😘😘</h2>
+  
+
 
 
 
@@ -106,4 +108,9 @@ _Start_
 <a href="https://t.me/UDMODZ3">JOIN FOR LRARN HACKING 😎</a></p>
 
 
+<h2 align="center">Depelopers</h2>
+
+<p align="left">Udhanika Dissanayaka(Main dev)</p>
+<p align="left">Dinisuru(Coding Support)</p>
+<p align="left">Supun Fernando(Pair Site)</p>
 
